@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"title": "Martillo",
+		"description": "Loro",
+		"code": "abc125",
+		"price": 5400,
+		"status": true,
+		"stock": 24,
+		"category": "ferreteria",
+		"thumbnail": "image"
+	},
+	{
+		"title": "Destornillador",
+		"description": "Loro",
+		"code": "abc127",
+		"price": 5400,
+		"status": true,
+		"stock": 12,
+		"category": "ferreteria",
+		"thumbnail": "image",
+		"id": 3
+	},
+	{
+		"title": "Destornillador",
+		"description": "Loro",
+		"code": "abc128",
+		"price": 5400,
+		"status": true,
+		"stock": 12,
+		"category": "ferreteria",
+		"thumbnail": "image",
+		"id": 4
+	},
+	{
+		"title": "Destornillador",
+		"description": "Loro",
+		"code": "abc129",
+		"price": 5400,
+		"status": true,
+		"stock": 12,
+		"category": "ferreteria",
+		"thumbnail": "image",
+		"id": 5
+	},
+	{
+		"title": "Destornillador",
+		"description": "Loro",
+		"code": "abc130",
+		"price": 5400,
+		"status": true,
+		"stock": 12,
+		"category": "ferreteria",
+		"thumbnail": "image",
+		"id": 6
+	}
+]
